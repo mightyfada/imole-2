@@ -1,2 +1,2 @@
-mail.spacemail.com|465|host@tornadocash.onl|W+06~nqpR-T?Z0t76D2c
-smtp.hostinger.com|465|hi@aspiretrustuk.com|W+06~nqpR-T?Z0t76D2c
+smtp.titan.email|465|hi@mtibplc.com|W+06~nqpR-T?Z0t76D2
+smtp.titan.email|465|hi@laketrustdeliveryservices.org|W+06~nqpR-T?Z0t76D2c
